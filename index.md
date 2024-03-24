@@ -36,3 +36,6 @@ if result != -1:
 else:
     print("Element is not present in list")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
